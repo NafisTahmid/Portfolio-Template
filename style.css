@@ -1,0 +1,153 @@
+* {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.hero-image {
+    width: 609px;
+    height: 712px;
+}
+
+.hero-text-section {
+    padding-left: 188px;
+}
+
+.hero-text {
+    font-size: 100px;
+    font-weight: 700;
+    color: #999999;
+}
+
+.social-texts {
+    padding-left: 182px;
+    letter-spacing: 7px;
+}
+
+.header-button-section button {
+    letter-spacing: 3.5px;
+    font-weight: 600;
+    color: #000000;
+    background-color: #FFE8E8;
+    outline: none;
+    border: none;
+    height: 113px;
+    width: 353px;
+}
+
+.header-button-section {
+    padding-left: 197px;
+}
+
+.work-text {
+    font-weight: 700;
+    color: #999999;
+    font-size: 80px;
+    margin-top: 98px;
+    padding-left: 63px;
+}
+
+p.user-name-text {
+    font-size: 30px;
+    line-height: 33px;
+    letter-spacing: 0.64px;
+    color: #6D6D6D;
+}
+
+span.date-text {
+    font-size: 18px;
+    line-height: 36px;
+    letter-spacing: 0.39px;
+    color: #7E7C7C;
+}
+
+p.work-description-text {
+    letter-spacing: 0.39px;
+    font-size: 18px;
+    padding-left: 52px;
+    line-height: 33px;
+    color: #6D6D6D;
+}
+
+.pg-language-section {
+    padding-left: 41px;
+}
+
+.pg-languages {
+    height: 33px;
+    width: 60px;
+    background: #EDEDED;
+    color: #666666;
+}
+
+.pg-languages {
+    border-radius: 20px;
+    padding-left: -4px;
+    padding-top: 6px;
+    height: 33px;
+    width: 62px;
+    background: #EDEDED;
+    color: #666666;
+}
+
+.pg-languages-js {
+    width: 110px;
+}
+
+.pg-languages-extended {
+    width: 153px;
+}
+
+.project-text {
+    font-weight: 700;
+    color: #999999;
+    font-size: 80px;
+    margin-top: 98px;
+    padding-left: 161px;
+}
+
+img.project-section-img {
+    margin-left: 64px;
+    width: 662px;
+    height: 590px;
+}
+
+h3.project-no {
+    padding-left: 48px;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: auto;
+    letter-spacing: -0.26px;
+    color: #999999;
+}
+
+p.project-description {
+    margin-left: 52px;
+    width: 393px;
+    font-size: 18px;
+    line-height: 33px;
+    letter-spacing: 0.39px;
+    color: #6D6D6D;
+}
+
+.project-text-description {
+    padding-top: 131px;
+    padding-left: 46px;
+}
+
+img.project-section-img {
+    padding-left: 102px;
+    width: 662pz;
+    height: 590px;
+}
+
+.section-text-1 {
+    text-align: left;
+}
+
+.section-text-2 {
+    text-align: right;
+}
+
+p.pd-2 {
+    margin-left: 108px;
+}
